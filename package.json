@@ -20,7 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "electron": "electron .",
-    "ebuild": "npm run build && node_modules/.bin/build"
+    "ebuild": "npm run build && build"
   },
   "description": "React Electron App",
   "homepage": "./",
